@@ -1,0 +1,18 @@
+{
+  "name": "config",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ksbckr/ksbckr.github.io",
+  "authors": [
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pebble-slate": "~0.0.3"
+  }
+}
